@@ -1,0 +1,16 @@
+# Health Records Smart Contract
+
+This project is a standalone smart contract for managing personal health records on the blockchain.
+
+## Usage
+
+1. Open remix IDE
+2. Open contracts folder which a default folder
+3. Create a file with .sol extension
+4. Compile code
+5. Deploy the code.
+6. Store, update, and manage health records securely on the blockchain, through the deployed contract
+
+## License
+
+MIT License. See [LICENSE](LICENSE) for details.

@@ -1,0 +1,20 @@
+In Remix IDE, ensure you have your smart contract loaded.
+
+Select the contract and the function you want to call (e.g., addPatient).
+
+Input the values in the "Value" field for each parameter of the function. For example:
+
+_name: "John Doe"
+_age: 35
+_gender: ["Male"]
+_conditions: ["Diabetes", "Hypertension"]
+_allergies: ["Peanuts", "Penicillin"]
+_medications: ["Insulin", "Aspirin"]
+_procedures: ["Appendectomy"]
+Make sure you have an Ethereum wallet connected (for example, MetaMask).
+
+Click the "Transact" or "Send Transaction" button to execute the function, which will send the input values to the smart contract.
+
+These input values would be added to the smart contract as part of the transaction when you call the addPatient function.
+
+Please note that you need to be connected to an Ethereum network (e.g., a local development network or a testnet) and have some test Ether in your account to perform these transactions in Remix IDE.
